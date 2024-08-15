@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://trialbin.github.io/sitemap.html.gz
+Sitemap: https://trialbin.github.io/app/sitemap.html.gz
+Sitemap: https://trialbin.github.io/assets/sitemap.html.gz
+Sitemap: https://trialbin.github.io/css/sitemap.html.gz
+Sitemap: https://trialbin.github.io/includes/sitemap.html.gz
+Sitemap: https://trialbin.github.io/item/sitemap.html.gz
+Sitemap: https://trialbin.github.io/src/sitemap.html.gz
